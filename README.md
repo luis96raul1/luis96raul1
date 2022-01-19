@@ -1,4 +1,3 @@
-<br>
 ### Hi there, I'm Luis Raul 👋
 
 <!--
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
-<br/>
+
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
